@@ -1,62 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sankalp</h1>
-<h3 align="center">A Passionate Software & Frontend Developer from India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sankalpkarn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  📫 How to reach me: <a href="mailto:kumarsankalp249@gmail.com">kumarsankalp249@gmail.com</a>
-</p>
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://instagram.com/sankalpkarn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpkarn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## Sankalp Karn
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sankalpkarn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+
+**B.Tech in Electronics and Communication Engineering | Aspiring Machine Learning & IoT Enthusiast**
+
+Welcome to my GitHub profile! I’m Sankalp, a passionate engineering student currently pursuing a B.Tech in Electronics and Communication at IMS Engineering College, Ghaziabad. My interests lie in the intersection of technology and innovation, particularly in the fields of Machine Learning, Internet of Things (IoT), and Embedded Systems.
+
+### 🚀 About Me
+- **Technical Skills:** Proficient in programming languages such as C, Python, and Embedded C. I have hands-on experience using pandas, Scikit-learn, Custom Tkinter & Tkinter, and I'm comfortable with web technologies including React, Flask, and Django.
+- **Tools & Technologies:** I regularly use Git, VS Code, and Arduino IDE in my projects. My knowledge extends to cloud services and databases, particularly MySQL and MongoDB.
+- **Experience:** I've interned at Ybi Foundation where I worked on machine learning projects, gaining practical experience in data manipulation, statistical analysis, and model development & Currently I'm intern at Excel Geomatics as an Python Developer.
+- **Projects:** My projects include developing a sonar-based object detection system, and a real-time train information and announcement system as part of the Smart India Hackathon, showcasing my skills in algorithm development, backend integration, and API usage.
+
+### 🛠️ Personal Projects
+- **Object Detection Using Sonar:** Developed a sonar-based system for object detection, utilizing Arduino and Embedded C for real-time processing.
+- **Train Information And Announcement System:** Contributed to the Smart India Hackathon by building a system that integrates dynamic APIs to provide real-time train data, with a focus on backend development and database management.
+
+### 🏆 Achievements
+- **Smart India Hackathon:** Participated and advanced through 3 presentation rounds.
+- **Build And Win Competition:** Secured 2nd Prize for a technical project.
+
+### 📜 Certifications
+- **The Arduino Platform and C Programming** (Coursera)
+- **Data Analysis with Python, Power BI, Tableau** (IMS Engineering College)
+- **Cybersecurity Analyst** (Forage)
+
+### 📫 Let's Connect
+- **LinkedIn:** [Sankalp Karn](https://linkedin.com/in/sankalp-karn)
+- **Email:** kumarSankalp249@gmail.com
+
+I’m constantly working on new projects and learning new technologies, so feel free to explore my repositories and reach out if you’re interested in collaboration or just want to chat about tech!
