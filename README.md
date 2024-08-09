@@ -30,3 +30,7 @@ Welcome to my GitHub profile! I’m Sankalp, a passionate engineering student cu
 - **Email:** kumarSankalp249@gmail.com
 
 I’m constantly working on new projects and learning new technologies, so feel free to explore my repositories and reach out if you’re interested in collaboration or just want to chat about tech!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpkarn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
