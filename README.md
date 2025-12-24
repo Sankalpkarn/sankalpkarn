@@ -6,7 +6,10 @@
 ### 🚀 About Me
 - **Technical Skills:** Proficient in programming languages such as C, Python, and Embedded C. I have hands-on experience using pandas, Scikit-learn, Custom Tkinter & Tkinter, and I'm comfortable with web technologies including React, Flask, and Django.
 - **Tools & Technologies:**
--- *Language*: Python, Javascript, C
+-- *Language*: Python, Solidity, Javascript, C
+-- *Tools*: VS Code, Postman, QGIS
+-- *Libraries*: FastApi, Rasterio, GDAL, Matplot, Numpy
+-- *Framework*: React, Node
 
 
 
