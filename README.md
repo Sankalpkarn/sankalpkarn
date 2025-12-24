@@ -5,8 +5,9 @@
 
 ### 🚀 About Me
 - **Technical Skills:** Proficient in programming languages such as C, Python, and Embedded C. I have hands-on experience using pandas, Scikit-learn, Custom Tkinter & Tkinter, and I'm comfortable with web technologies including React, Flask, and Django.
-- **Tools & Technologies:** I regularly use Git, VS Code, and Arduino IDE in my projects. My knowledge extends to cloud services and databases, particularly MySQL and MongoDB.
-- **Experience:** I've interned at Ybi Foundation where I worked on machine learning projects, gaining practical experience in data manipulation, statistical analysis, and model development & Currently I'm SD at Excel Geomatics as an Python Developer.
+- **Tools & Technologies:**
+-- *Language*: Python, Javascript, C
+
 
 
 ### 📫 Let's Connect
